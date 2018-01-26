@@ -1,6 +1,6 @@
 # Blog scripts
 
-## tasks.py
+## [tasks.py](https://github.com/BeardedPlatypus/aut-o-magic/blob/master/blog/tasks.py)
 
 `tasks.py` provides pyinvoke command line functions to automate pelican blog 
 maintenance. 

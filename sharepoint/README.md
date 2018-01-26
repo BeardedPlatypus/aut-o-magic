@@ -1,6 +1,6 @@
 # Sharepoint scripts
 
-## sync_contacts
+## [sync_contacts](https://github.com/BeardedPlatypus/aut-o-magic/blob/master/sharepoint/sync_contacts.py)
 
 Exchange Online does not provide a simple tool to sync its contacts to that
 of a SharePoint Online List. This script ensures that after running, the 

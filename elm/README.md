@@ -1,6 +1,6 @@
 # Elm scripts
 
-## tasks.py
+## [tasks.py](https://github.com/BeardedPlatypus/aut-o-magic/blob/master/elm/tasks.py)
 
 `tasks.py` provides pyinvoke command line functions to automate compilation. 
 Because many of my projects are organised in a similar fashion, this allows me

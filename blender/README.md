@@ -1,6 +1,6 @@
 # Blender scripts
 
-## laser_cut_svg_export
+## [laser_cut_svg_export](https://github.com/BeardedPlatypus/aut-o-magic/blob/master/blender/lasercut_svg_export.py)
 
 The laser cut script provides a method to quickly export flat objects to svg,
 such that they can be laser cut. It does so based upon the `x` and `y` 
